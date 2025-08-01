@@ -3,7 +3,9 @@
 <p align="center">
   🔐 IoT Enthusiast • 🌐 Web Dev • 🎮 Game Dev • 🎨 Graphic Designer  
 </p>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rithik+Verma.;IoT+Enthusiast.;Web+Dev.;Game+Dev.;Graphic+Designer." alt="Typing SVG" />
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=Blue&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+smart+%26+creative+projects." alt="Typing SVG" />
 </p>
@@ -65,6 +67,8 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rithikverma&label=Profile+Visitors&color=00ffff&style=flat-square" alt="visitor badge"/>
+</p>
 > 🖤 “The best way to predict the future is to build it.” – Alan Kay
 
