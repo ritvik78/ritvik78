@@ -26,7 +26,7 @@ Microcontrollers: Arduino | ESP32 | Raspberry Pi
 Frontend:         HTML | CSS | React (basics)
 Game Dev:         Unity | C#
 Design:           Figma | Canva | Photoshop
-Tools:            Arduino IDE | VS Code | Proteus | Fritzing
+Tools:            Arduino IDE | VS Code | Tinker CAD | BLYNK.io
 ````
 
 ---
