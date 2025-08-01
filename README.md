@@ -20,7 +20,6 @@
 
 ## 🛠️ Tech Stack
 
-```bash
 Languages:       C | C++ | Python | JavaScript
 Microcontrollers: Arduino | ESP32 | Raspberry Pi
 Frontend:         HTML | CSS | React (basics)
