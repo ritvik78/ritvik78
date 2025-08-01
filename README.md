@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <!--
 **ritvik78/ritvik78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ````md
-# 👋 Hi, I'm Rithik Verma
+## 👋 Hi, I'm Rithik Verma
 
 🎓 B.E. in Electrical and Computer Engineering  
 📍 Patiala, India | 💼 Aspiring Embedded & IoT Engineer
