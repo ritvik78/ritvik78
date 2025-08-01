@@ -3,15 +3,10 @@
 <p align="center">
   🔐 IoT Enthusiast • 🌐 Web Dev • 🎮 Game Dev • 🎨 Graphic Designer  
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=👋Hi+there!+I'm+Rithik+Verma.;🔐IoT+Enthusiast.;🌐Web+Dev.;🎮Game+Dev.;🎨Graphic+Designer." alt="Typing SVG" />
-</h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=👋Hi+there!+I'm+Rithik+Verma.;🔐IoT+Enthusiast.;🌐Web+Dev.;🎮Game+Dev.;🎨Graphic+Designer." alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=Blue&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+smart+%26+creative+projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+smart+%26+creative+projects." alt="Typing SVG" />
 </p>
 
 ---
@@ -29,25 +24,25 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <!-- Languages -->
+  ### Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
-  <!-- Web -->
+  ### Web
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 
-  <!-- Game Dev -->
+  ### Game Dev 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
 
-  <!-- Design -->
+  ### Design 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   
-  <!-- Tools -->
+  ### Tools 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
