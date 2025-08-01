@@ -51,9 +51,9 @@
 
 ## 📫 Contact Me
 
-<p align="center" >
-  <a href="mailto:rock4rithik@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png"width="120"></a>
-  <a href="https://www.linkedin.com/in/rithik-verma-74592226a/"><img src="https://ci3.googleusercontent.com/meips/ADKq_NaZS80lJKKLmNWJbywLi3-jL3P8kFjdgCFzkf0a8q_y3PqMIkP33vZjoMOTXpjrwVWBEkCT00SFqqw25LqKDg26-N7T-ACNc2svYj3RVaPB2cBiRYM=s0-d-e1-ft#https://static.licdn.com/aero-v1/sc/h/9ehe6n39fa07dc5edzv0rla4e"width="160"></a>
+<p align="center" width="100">
+  <a href="mailto:rock4rithik@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png"></a>
+  <a href="https://www.linkedin.com/in/rithik-verma-74592226a/"><img src="https://ci3.googleusercontent.com/meips/ADKq_NaZS80lJKKLmNWJbywLi3-jL3P8kFjdgCFzkf0a8q_y3PqMIkP33vZjoMOTXpjrwVWBEkCT00SFqqw25LqKDg26-N7T-ACNc2svYj3RVaPB2cBiRYM=s0-d-e1-ft#https://static.licdn.com/aero-v1/sc/h/9ehe6n39fa07dc5edzv0rla4e"></a>
 </p>
 
 ---
