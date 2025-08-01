@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Rithik Verma</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:red">Rithik Verma</span></h1>
 
 <p align="center">
   🔐 IoT Enthusiast • 🌐 Web Dev • 🎮 Game Dev • 🎨 Graphic Designer  
