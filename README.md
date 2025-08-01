@@ -23,7 +23,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw3NKdsLrqiWCVgqyh9I5cvF&ust=1754163831339000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjftdOv6o4DFQAAAAAdAAAAABAE" alt="C" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="C" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/> <!-- C# Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
