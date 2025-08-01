@@ -50,22 +50,3 @@ Tools:            Arduino IDE | VS Code | Proteus | Fritzing
 
 > 🖤 “The best way to predict the future is to build it.” – Alan Kay
 
-```
-
----
-
-### ✅ What Makes It “Black Theme”:
-- Uses **dark-themed badges**
-- GitHub stats in **Tokyonight** (dark) theme
-- Emojis and minimalist style to enhance readability
-- Black background styled badges and text
-
-You can preview how this looks by pasting it into your GitHub repo’s `README.md` file.
-
-Would you like me to add:
-- A **visitor counter**
-- A **featured projects** section with GIFs?
-- A **dark background banner**?
-
-Just ask!
-```
