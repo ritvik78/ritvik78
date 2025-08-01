@@ -1,38 +1,32 @@
-# 👋 Hi there, I'm Rithik Verma
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Rithik Verma</span></h1>
 
-🎓 B.E. in Electrical and Computer Engineering  
-📍 Patiala, India | 🔐 IoT Enthusiast • Web Dev • Game Dev • Graphic Designer
+<p align="center">
+  🔐 IoT Enthusiast • 🌐 Web Dev • 🎮 Game Dev • 🎨 Graphic Designer  
+</p>
 
----
-
-## 🚀 About Me
-
-I'm passionate about building smart systems using microcontrollers, RFID, and IoT technologies.  
-I also enjoy exploring creative domains like:
-
-- 🌐 **Web Development** – Building responsive websites and UIs  
-- 🎮 **Game Development** – Designing fun experiences with Unity  
-- 🎨 **Graphic Designing** – Crafting visuals, posters, and UI mockups
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+smart+%26+creative+projects." alt="Typing SVG" />
+</p>
 
 ---
 
-## 💼 Connect with Me
+## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithik-verma-74592226a/)  
-📫 **Gmail:** rock4rithik@gmail.com
-
----
-
-## ⚙️ Tech Stack
-
-- **Languages:** C, C++, Python, JavaScript  
-- **Microcontrollers:** Arduino, ESP32, Raspberry Pi  
-- **Web:** HTML, CSS, React (basics)  
-- **Game Dev Tools:** Unity, C#  
-- **Design Tools:** Figma, Canva, Photoshop  
-- **Others:** Arduino IDE, VS Code, Tinker CAD, BLYNK.io  
+🎓 I'm currently pursuing B.E. in Electrical and Computer Engineering from **TIET, Patiala**.  
+⚙️ I enjoy working on IoT-based automation projects and love mixing tech with creativity.  
+🎯 Focused on learning, building, and contributing to smart, secure, and interactive systems.
 
 ---
+
+## 🛠️ Tech Stack
+
+```bash
+Languages:       C | C++ | Python | JavaScript
+Microcontrollers: Arduino | ESP32 | Raspberry Pi
+Frontend:         HTML | CSS | React (basics)
+Game Dev:         Unity | C#
+Design:           Figma | Canva | Photoshop
+Tools:            Arduino IDE | VS Code | Tinker CAD | BLYNK.io
 
 ## 📈 GitHub Stats
 
