@@ -33,3 +33,4 @@ I'm passionate about building smart systems using microcontrollers, RFID, and Io
 
 ---
 
+> "The best way to predict the future is to build it." — Alan Kay
