@@ -1,29 +1,36 @@
 # 👋 Hi there, I'm Rithik Verma
 
 🎓 B.E. in Electrical and Computer Engineering  
-📍 Patiala, India | 🔐 Embedded & IoT Enthusiast
+📍 Patiala, India | 🔐 IoT Enthusiast • Web Dev • Game Dev • Graphic Designer
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about building smart systems using microcontrollers, RFID, and IoT technologies. Currently exploring how embedded systems and automation can be combined to create secure, real-world solutions like RFID-based door locks.
+I'm passionate about building smart systems using microcontrollers, RFID, and IoT technologies.  
+I also enjoy exploring creative domains like:
+
+- 🌐 **Web Development** – Building responsive websites and UIs  
+- 🎮 **Game Development** – Designing fun experiences with Unity  
+- 🎨 **Graphic Designing** – Crafting visuals, posters, and UI mockups
 
 ---
 
 ## 💼 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithik-verma-74592226a/)  
-[📫 Email Me](mailto:rock4rithik@gmail.com) *(Update with your actual email)*
+📫 **Gmail:** rock4rithik@gmail.com
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Languages:** C, C++, Python  
+- **Languages:** C, C++, Python, JavaScript  
 - **Microcontrollers:** Arduino, ESP32, Raspberry Pi  
-- **Tools:** Arduino IDE, VS Code, Fritzing, Proteus  
-- **Concepts:** Embedded Systems, IoT, Automation, RFID  
+- **Web:** HTML, CSS, React (basics)  
+- **Game Dev Tools:** Unity, C#  
+- **Design Tools:** Figma, Canva, Photoshop  
+- **Others:** Arduino IDE, VS Code, Tinker CAD, BLYNK.io  
 
 ---
 
@@ -33,4 +40,4 @@ I'm passionate about building smart systems using microcontrollers, RFID, and Io
 
 ---
 
-> "The best way to predict the future is to build it." — Alan Kay
+> “The best way to predict the future is to build it.” – Alan Kay
