@@ -34,8 +34,8 @@ Tools:            Arduino IDE | VS Code | Tinker CAD | BLYNK.io
 ## 📫 Contact Me
 
 <p>
-  <a href="mailto:rock4rithik@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"></a>
-  <a href="https://www.linkedin.com/in/rithik-verma-74592226a/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+  <a href="mailto:rock4rithik@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="https://www.linkedin.com/in/rithik-verma-74592226a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
