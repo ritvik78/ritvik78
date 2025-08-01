@@ -6,6 +6,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rithik+Verma.;IoT+Enthusiast.;Web+Dev.;Game+Dev.;Graphic+Designer." alt="Typing SVG" />
 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rithik+Verma.;IoT+Enthusiast.;Web+Dev.;Game+Dev.;Graphic+Designer." alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=Blue&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+smart+%26+creative+projects." alt="Typing SVG" />
 </p>
