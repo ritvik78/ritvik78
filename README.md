@@ -20,17 +20,52 @@
 
 ## 🛠️ Tech Stack
 
+```bash
 Languages:       C | C++ | Python | JavaScript
 Microcontrollers: Arduino | ESP32 | Raspberry Pi
 Frontend:         HTML | CSS | React (basics)
 Game Dev:         Unity | C#
 Design:           Figma | Canva | Photoshop
-Tools:            Arduino IDE | VS Code | Tinker CAD | BLYNK.io
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikverma&show_icons=true&theme=tokyonight)
+Tools:            Arduino IDE | VS Code | Proteus | Fritzing
+````
 
 ---
 
-> “The best way to predict the future is to build it.” – Alan Kay
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:rock4rithik@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="https://www.linkedin.com/in/rithik-verma-74592226a/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rithikverma&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10">
+</p>
+
+---
+
+> 🖤 “The best way to predict the future is to build it.” – Alan Kay
+
+```
+
+---
+
+### ✅ What Makes It “Black Theme”:
+- Uses **dark-themed badges**
+- GitHub stats in **Tokyonight** (dark) theme
+- Emojis and minimalist style to enhance readability
+- Black background styled badges and text
+
+You can preview how this looks by pasting it into your GitHub repo’s `README.md` file.
+
+Would you like me to add:
+- A **visitor counter**
+- A **featured projects** section with GIFs?
+- A **dark background banner**?
+
+Just ask!
+```
