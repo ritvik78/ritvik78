@@ -46,6 +46,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
 </p>
 
+---
+## 🌐 Live Site
+
+🔗 [Visit the Website](https://ritvik78.github.io/portfolio-new/)
 
 ---
 
