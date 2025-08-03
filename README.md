@@ -48,7 +48,7 @@
 
 ---
 ## 🌐 Live Site
-align="center"
+
 🔗 [Visit the Website](https://ritvik78.github.io/portfolio-new/)
 
 ---
