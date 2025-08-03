@@ -49,7 +49,7 @@
 ---
 ## 🌐 Live Site
 
-🔗 [Visit the Website](https://ritvik78.github.io/portfolio-new/)
+🔗 [Visit the Website](https://ritvik78.github.io/portfolio/)
 
 ---
 
