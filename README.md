@@ -70,7 +70,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rithikverma&label=Profile+Visitors&color=00ffff&style=flat-square" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=rithikverma&label=Profile+Visitors+Visitors&color=00ffff&style=flat-square" alt="visitor badge"/>
 </p>
 > 🖤 “The best way to predict the future is to build it.” – Alan Kay
 
