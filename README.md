@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+Smart+%26+Creative+Projects;IoT+%7C+Web+Development+%7C+Game+Development;Always+Learning+Something+New;Turning+Ideas+Into+Reality"/>
 
 </div>
+
 ---
 
 ## 🚀 About Me
