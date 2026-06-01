@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/👋%20Hi%2C%20I'm%20Rithik%20Verma-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Rithik%20Verma-00E5FF?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 ### 🔐 IoT Enthusiast • 🌐 Web Developer • 🎮 Game Developer • 🎨 Graphic Designer
