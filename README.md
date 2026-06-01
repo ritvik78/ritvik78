@@ -81,7 +81,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -89,7 +89,11 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik78&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritvik78&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ritvik78&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -99,7 +103,27 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ritvik78&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ritvik78&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ritvik78/ritvik78/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ritvik78&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
