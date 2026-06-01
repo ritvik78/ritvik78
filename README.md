@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithikverma&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10">
+  <img src="https://camo.githubusercontent.com/e4b559316fe2dac5701160753309988169e5b3a6d4366a337fb43937c4db276c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d596173685961646176303031267468656d653d626c7565626572727926686964655f626f726465723d74727565">
 </p>
 
 ---
