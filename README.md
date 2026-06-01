@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rithik%20Verma-00E5FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0066FF&height=250&section=header&text=Hi,%20I'm%20Rithik%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-</div>
 ### 🔐 IoT Enthusiast • 🌐 Web Developer • 🎮 Game Developer • 🎨 Graphic Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+Smart+%26+Creative+Projects;IoT+%7C+Web+Development+%7C+Game+Development;Always+Learning+Something+New;Turning+Ideas+Into+Reality"/>
 
 </div>
-
 ---
 
 ## 🚀 About Me
