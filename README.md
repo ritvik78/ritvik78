@@ -107,7 +107,7 @@
 </div>
 
 
-## 📊 GitHub Analytics
+## 📊 GitHub Reaction 👀
 
 <div align="center">
 
@@ -115,14 +115,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ritvik78&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -136,16 +128,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ritvik78&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritvik78&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
