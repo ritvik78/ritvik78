@@ -92,21 +92,6 @@
 
 ---
 
-## 🎯 Developer Snapshot
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-IoT%20Development-00E5FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web-React%20%26%20JavaScript-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Game%20Dev-Unity-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Design-Figma%20%26%20Photoshop-purple?style=for-the-badge"/>
-
-</div>
-
-
 ## 📊 GitHub Reaction 👀
 
 <div align="center">
@@ -114,6 +99,8 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 
 </div>
+
+---
 
 ## 📈 Contribution Activity
 
