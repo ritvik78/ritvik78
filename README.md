@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6A00FF&height=220&section=header&text=Rithik%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
 # 👋 Hi, I'm Rithik Verma
 
-### 🔐 IoT Enthusiast | 🌐 Web Developer | 🎮 Game Developer | 🎨 Graphic Designer
+### 🔐 IoT Enthusiast • 🌐 Web Developer • 🎮 Game Developer • 🎨 Graphic Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Smart+%26+Creative+Projects;IoT+%7C+Web+Development+%7C+Game+Development;Always+Learning+Something+New;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+Smart+%26+Creative+Projects;IoT+%7C+Web+Development+%7C+Game+Development;Always+Learning+Something+New;Turning+Ideas+Into+Reality"/>
 
 </div>
 
@@ -12,18 +14,19 @@
 
 ## 🚀 About Me
 
-🎓 Pursuing **B.E. in Electrical and Computer Engineering** at **Thapar Institute of Engineering & Technology (TIET), Patiala**
+🎓 Pursuing **B.E. in Electrical and Computer Engineering** from **Thapar Institute of Engineering & Technology (TIET), Patiala**
 
-⚡ Passionate about developing **IoT-based automation systems**, modern web applications, and interactive digital experiences.
+⚙️ Passionate about building **IoT-based automation projects**, interactive web applications, and immersive digital experiences.
 
-🎯 Currently focused on:
-- Smart IoT Solutions
-- Full-Stack Web Development
-- Cybersecurity Fundamentals
-- UI/UX Design
-- Creative Digital Products
+🎯 Focus Areas:
 
-💡 I enjoy combining **technology, creativity, and problem-solving** to build impactful projects.
+* Smart IoT Systems
+* Web Development
+* Game Development
+* UI/UX & Graphic Design
+* Creative Technology Solutions
+
+💡 I enjoy combining engineering, creativity, and innovation to solve real-world problems.
 
 ---
 
@@ -31,9 +34,9 @@
 
 <div align="center">
 
-### 🔗 Live Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ritvik78.github.io/Updated-Portfolio/)
+<a href="https://ritvik78.github.io/Updated-Portfolio/">
+<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
 
 </div>
 
@@ -41,7 +44,7 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
@@ -65,7 +68,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
 </p>
 
-### Design & Creative Tools
+### Design Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
@@ -81,15 +84,27 @@
 
 ---
 
+## ⚡ Developer Dashboard
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=IoT+Enthusiast;Web+Developer;Game+Developer;Graphic+Designer;Always+Building+Something+Cool"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritvik78&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ritvik78&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik78&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik78&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -99,47 +114,51 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ritvik78&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritvik78&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Current Status
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ritvik78/ritvik78/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+![Projects](https://img.shields.io/badge/🚀_Building_Projects-00E5FF?style=for-the-badge)
+
+![Learning](https://img.shields.io/badge/📚_Learning_New_Tech-blue?style=for-the-badge)
+
+![Focus](https://img.shields.io/badge/🎯_IoT_|_Web_Development-purple?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👀 Profile Visitors
+## 💻 Fun Corner
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ritvik78&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 💭 Random Developer Quote
 
-- 🚀 Build impactful IoT and Automation Projects
-- 🌍 Contribute more to Open Source
-- 💻 Strengthen Full-Stack Development Skills
-- 🔐 Explore Cybersecurity & Smart Systems
-- 📱 Create scalable digital products
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -155,11 +174,11 @@
 
 ---
 
+## 👀 Profile Visitors
+
 <div align="center">
 
-### 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=ritvik78&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ritvik78&label=Profile+Visitors&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
@@ -167,11 +186,14 @@
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 🖤 "The best way to predict the future is to build it."
 
-> **"The best way to predict the future is to build it."**  
-> — Alan Kay
+— Alan Kay
 
-⭐ If you like my work, consider starring my repositories!
+⭐ Thanks for visiting my profile!
+
+🚀 Explore my repositories and feel free to connect with me.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6A00FF&height=120&section=footer"/>
